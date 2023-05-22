@@ -8,3 +8,5 @@ Hello everybody, who is reading this.
 
 
 this is a Tetris game. easy and complicated at the same time. enjoy.
+P.S. If you're interested in contributing go ahead and create a pull request :-)
+Please share and like =]
